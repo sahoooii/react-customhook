@@ -1,2 +1,2 @@
 # react-customhook
-Created with CodeSandbox
+study custom hook
